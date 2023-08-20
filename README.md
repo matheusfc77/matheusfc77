@@ -25,6 +25,8 @@
 
 <img src="https://github.com/matheusfc77/matheusfc77/assets/53383364/6fa5980f-5c4a-416c-8d32-8089d832650e" width="20" height="20"/> <img src="https://github.com/matheusfc77/matheusfc77/assets/53383364/0e6646e7-b2db-4489-a00f-c4a77788e8a1" width="20" height="20"/> <img src="https://github.com/matheusfc77/matheusfc77/assets/53383364/c400b8f0-fa11-43a5-986e-49b853e8aabc" width="20" height="20"/> Domain of different data architectures (StarSchema, Snowflake, Medallion)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/matheusfc77/matheusfc77/assets/53383364/0fc5efc3-f4df-414f-b51d-b06d5b00814f" width="20" height="20"/> <img src="https://github.com/matheusfc77/matheusfc77/assets/53383364/29470ae1-9ac3-45bc-9ebc-90f8f0c53556)" width="20" height="20"/> Orchestration of pipelines with Airflow and Azure Data Factory
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/matheusfc77/matheusfc77/assets/53383364/9a1ce461-6c74-4c29-ad3b-1a594370ae89" width="20" height="20"/> <img src="https://github.com/matheusfc77/matheusfc77/assets/53383364/1beb3884-8da0-4a7b-bde7-c72623af53ac" width="30" height="20"/> Data visualization with Plotly and PowerBI
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/matheusfc77/matheusfc77/assets/53383364/4fcb9a49-579c-4606-89f9-23e40656ba90" width="20" height="20"/> <img src="https://github.com/matheusfc77/matheusfc77/assets/53383364/2981512c-3411-42ba-abb4-8aa015c29973" width="30" height="20"/> Development of machine learning models with Scikit-learn and Keras
